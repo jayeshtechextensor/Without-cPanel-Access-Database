@@ -1,0 +1,5 @@
+1. dbBackup.php put the file in weblogin / admin
+2. Create folder in weblogin - dbBackup folder name
+3. type URL ....weblogin/dbBackup.php
+4. download start.
+
